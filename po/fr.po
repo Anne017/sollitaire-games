@@ -1,0 +1,565 @@
+# #-#-#-#-#  solitaire-games.mateo-salta_qml.pot (solitaire-games.mateo-salta)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the solitaire-games.mateo-salta package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: solitaire-games.mateo-salta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 06:53+0000\n"
+"PO-Revision-Date: 2020-03-20 12:01+0000\n"
+"Last-Translator: Anne017 <anneonyme017@openmailbox.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"#-#-#-#-#  solitaire-games.mateo-salta_xml.pot (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  solitaire-games.mateo-salta_qml.pot (solitaire-games.mateo-"
+"salta)  #-#-#-#-#\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 5
+#. (itstool) path: game/title
+msgid "Klondike (3 cards)"
+msgstr "Klondike (3 cartes)"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 8
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 62
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Klondike&lt;/i&gt;&lt;/b&gt; is a patience game (solitaire "
+"card game). Many people refer to Klondike as &lt;b&gt;&lt;i&gt;patience&lt;/"
+"i&gt;&lt;/b&gt; or &lt;b&gt;&lt;i&gt;solitaire&lt;/i&gt;&lt;/b&gt;, it being "
+"one of the better known of the family of patience games."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Klondike&lt;/i&gt;&lt;/b&gt; est un jeu de réussite (jeu de cartes "
+"du solitaire). Beaucoup de personnes appelent le Klondike le jeu de la &lt;b&gt;&lt;i&gt;réussite&lt;/"
+"i&gt;&lt;/b&gt; ou du &lt;b&gt;&lt;i&gt;solitaire&lt;/i&gt;&lt;/b&gt;. Il s'agit "
+"de l'un des jeux les plus connus de la famille des jeux de patience."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 11
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up from rank "
+"and from suit from Ace to King &lt;/li&gt; &lt;li&gt; The top card may be "
+"moved &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; Build down by rank and by alternating color &lt;/li&gt; &lt;li&gt; "
+"The top card may be moved &lt;/li&gt; &lt;li&gt; Complete or partial correct "
+"piles may be moved &lt;/li&gt; &lt;li&gt; An empty spot may be filled with a "
+"King or a pile starting with a King &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Stock:"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Click to face up and move 3 cards to the "
+"Waste &lt;/li&gt; &lt;li&gt; When empty, click to face down and move all "
+"cards from the Waste to the Stock &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Waste:"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Top card may be moved &lt;/li&gt; &lt;/"
+"ul&gt;"
+msgstr ""
+"&lt;h3&gt;Objectif :&lt;/h3&gt; déplacez toutes les cartes vers des piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; construisez une suite "
+"croissante de l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être "
+"déplacée &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; construisez une suite croissante en alternant les couleurs &lt;/li&gt; &lt;li&gt; "
+"La carte supérieure peut être déplacée &lt;/li&gt; &lt;li&gt; Les piles correctes complètes "
+"ou partielles peuvent être déplacées &lt;/li&gt; &lt;li&gt; Un emplacement vide peut être rempli avec un "
+"Roi ou une pile débutant par un Roi &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Pioche :"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; cliquez pour retourner et déplacer 3 cartes vers la "
+"défausse &lt;/li&gt; &lt;li&gt; Une fois vide, cliquez pour retourner et déplacer toutes "
+"les cartes de la défausse vers la pioche &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Défausse :"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; seule la carte supérieure peut être déplacée &lt;/li&gt; &lt;/"
+"ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 59
+#. (itstool) path: game/title
+msgid "Klondike (1 card)"
+msgstr "Klondike (1 carte)"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 65
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up from rank "
+"and from suit from Ace to King &lt;/li&gt; &lt;li&gt; The top card may be "
+"moved &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; Build down by rank and by alternating color &lt;/li&gt; &lt;li&gt; "
+"The top card may be moved &lt;/li&gt; &lt;li&gt; Complete or partial correct "
+"piles may be moved &lt;/li&gt; &lt;li&gt; An empty spot may be filled with a "
+"King or a pile starting with a King &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Stock:"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Click to face up and move 1 cards to the "
+"Waste &lt;/li&gt; &lt;li&gt; When empty, click to face down and move all "
+"cards from the Waste to the Stock &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Waste:"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Top card may be moved &lt;/li&gt; &lt;/"
+"ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; déplacez toutes les cartes vers des piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; constuisez une suite "
+"croissante de l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être "
+"déplacée &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; construisez une suite croissante en alternant les couleurs &lt;/li&gt; &lt;li&gt; "
+"La carte supérieure peut être déplacée &lt;/li&gt; &lt;li&gt; Les piles correctes complètes "
+"ou partielles peuvent être déplacées &lt;/li&gt; &lt;li&gt; Un emplacement vide peut être rempli avec un "
+"Roi ou une pile débutant par un Roi &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Pile :"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; cliquez pour retourner et déplacer une carte vers la "
+"défausse &lt;/li&gt; &lt;li&gt; Une fois vide, cliquez pour retourner et déplacer toutes "
+"les cartes de la défausse vers la pioche &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Défausse :"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; seule la carte supérieure peut être déplacée &lt;/li&gt; &lt;/"
+"ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 113
+#. (itstool) path: game/title
+msgid "Spider"
+msgstr "Spider"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 116
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; is a type of Patience game. It "
+"is one of the more popular two-deck solitaire games."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; est un type de jeu de patience. Il "
+"s'agit d'un des jeux de solitaire à deux paquets les plus populaires."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 118
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 165
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 212
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Automaticly filled "
+"when a Tableau spot contains a pile ordered down by rank and by suit from "
+"King to Ace &lt;/li&gt; &lt;li&gt; The top card may be moved &lt;/li&gt; "
+"&lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build down "
+"by rank &lt;/li&gt; &lt;li&gt; The top card may be moved &lt;/li&gt; &lt;"
+"li&gt; Complete or partial correct piles may be moved as long as they share "
+"the same suit &lt;/li&gt; &lt;li&gt; An empty spot may be filled with any "
+"card or correct piles with the same suit &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;"
+"Stock:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Can only be click if all Tableau "
+"spots are empty &lt;/li&gt; &lt;li&gt; Click to face up and move one card to "
+"each Tableau spot &lt;/li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; déplacez toutes les cartes vers des piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; automatiquement remplie "
+"lorsqu'un endroit du tableau contient une pile d'une série décroissante du "
+"Roi à l'As &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/li&gt; "
+"&lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Classement par "
+"rang &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/li&gt; &lt;"
+"li&gt; Les piles correctes complètes ou partielles peuvent être déplacées tant qu'elles partagent "
+"la même suite &lt;/li&gt; &lt;li&gt; Un emplacement vide peut être rempli avec n'importe quelle "
+"carte ou pile correcte avec la même suite &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;"
+"Stock :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Peut uniquement être cliqué si tous les emplacements du "
+"Tableau sont vides &lt;/li&gt; &lt;li&gt; Cliquer pour retourner et déplacer une carte dans "
+"chaque emplacement du Tableau &lt;/li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 159
+#. (itstool) path: game/title
+msgid "Spider (2 suits)"
+msgstr "Spider (2 suites)"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 162
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; is a type of Patience game. It "
+"is one of the more popular two-deck solitaire games. This type is played "
+"with only 2 suits."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; est un type de jeu de patience. Il "
+"est l'un des jeux les plus populaires de solitaire à deux paquets. Ce type est joué "
+"avec uniquement 2 suites."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 206
+#. (itstool) path: game/title
+msgid "Spider (1 suit)"
+msgstr "Spider (1 suite)"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 209
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; is a type of Patience game. It "
+"is one of the more popular two-deck solitaire games. This type is played "
+"with only 1 suit."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Spider&lt;/i&gt;&lt;/b&gt; est un type de jeu de patience. Il "
+"est l'un des jeux les plus populaires de solitaire à deux paquets. Ce type est joué "
+"avec uniquement 1 suite."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 253
+#. (itstool) path: game/title
+msgid "Pyramid"
+msgstr "Pyramide"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 256
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Pyramid&lt;/i&gt;&lt;/b&gt; is a solitaire game where the "
+"object is to get all the cards from the pyramid to the Foundation."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Pyramide&lt;/i&gt;&lt;/b&gt; est un jeu de solitaire dans lequel "
+"l'objectif est de collecter toutes les cartes de la pyramide à la pile."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 258
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundation&lt;br&gt; &lt;"
+"h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Paired cards move here "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Only exposed cards may be moved &lt;/li&gt; &lt;li&gt; If you drop a card "
+"over another that combine to 13, then they are moved to the Foundation &lt;/"
+"li&gt; &lt;li&gt; King is 13, Queen 12 and Jack 11 &lt;/li&gt; &lt;/ul&gt; "
+"&lt;h3&gt;Stock:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Click to top face down "
+"card to face it up &lt;/li&gt; &lt;li&gt; Face up card may be moved &lt;/"
+"li&gt; &lt;li&gt; Click face up card to move it to Waste &lt;/li&gt; &lt;/"
+"ul&gt; &lt;h3&gt;Waste:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Top card may be "
+"moved &lt;/li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacer toutes les cartes vers la pile&lt;br&gt; &lt;"
+"h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Les cartes apairées vont ici "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Seules les cartes exposées peuvent être déplacées &lt;/li&gt; &lt;li&gt; Si vous déposez une carte "
+"sur une autre et que leur total fait 13, elles sont envoyées vers la pile &lt;/"
+"li&gt; &lt;li&gt; Le Roi vaut 13, la Reine 12 et le Valet 11 &lt;/li&gt; &lt;/ul&gt; "
+"&lt;h3&gt;Réserve :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Cliquez sur une carte face cachée "
+"pour la retourner &lt;/li&gt; &lt;li&gt; Une carte face visible peut être déplacée &lt;/"
+"li&gt; &lt;li&gt; Cliquez sur une carte face visible pour la déplacer à la Poubelle &lt;/li&gt; &lt;/"
+"ul&gt; &lt;h3&gt;Poubelle :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; La carte supérieure peut être "
+"déplacée &lt;/li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 303
+#. (itstool) path: game/title
+msgid "Aces Up"
+msgstr "4 As"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 306
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Aces Up&lt;/i&gt;&lt;/b&gt; (also known as &lt;b&gt;&lt;"
+"i&gt;Idiot's Delight&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Once in a "
+"Lifetime&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Ace of the Pile&lt;/i&gt;"
+"&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Rocket to the Top&lt;/i&gt;&lt;/b&gt;, &lt;"
+"b&gt;&lt;i&gt;Firing Squad&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Loser "
+"Solitaire&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Aces High&lt;/i&gt;&lt;/"
+"b&gt;, and &lt;b&gt;&lt;i&gt;Drivel&lt;/i&gt;&lt;/b&gt;) is a solitaire card "
+"game using a deck of 52 playing cards. One advantage of this game is its "
+"minimal use of space: one can even play it on an area as small as an "
+"encyclopedia volume cover."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;4 As&lt;/i&gt;&lt;/b&gt; (aussi connue sous les noms de &lt;b&gt;&lt;"
+"i&gt;Plaisir des idiots&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Une fois dans la "
+"vie&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;As de pile&lt;/i&gt;"
+"&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Fusée vers le haut&lt;/i&gt;&lt;/b&gt;, &lt;"
+"b&gt;&lt;i&gt;Firing SquadPeloton d'exécution&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;Solitaire du "
+"perdant&lt;/i&gt;&lt;/b&gt;, &lt;b&gt;&lt;i&gt;As hauts&lt;/i&gt;&lt;/"
+"b&gt;, et &lt;b&gt;&lt;i&gt;DrivelEntraînement&lt;/i&gt;&lt;/b&gt;) est un jeu de carte solitaire "
+"utilisant un packet de 52 cartes. L'avantage de ce jeu est son utiliation minimale "
+"d'espace : on peut même y jouer sur une surface aussi petite que la couverture du volume "
+"d'une encyclopédie."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 314
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the cards except the Aces to the "
+"Foundation&lt;br&gt; &lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Played cards move here &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; "
+"&lt;ul&gt; &lt;li&gt; If the top card is the same suit but of lower rank "
+"than the top card of another Tableau spot, then you can click it to play it "
+"to the Foundation &lt;/li&gt; &lt;li&gt; An empty spot may be filled with "
+"the top card of another Tableau spot &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Stock:"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Click to face up and move one card to each "
+"Tableau spot &lt;/li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacer toutes les cartes excepté les as vers la "
+"pile&lt;br&gt; &lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Les cartes jouées sont déplacées ici &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; "
+"&lt;ul&gt; &lt;li&gt; Si la carte supérieure est de la même couleur mais de valeur inférieure "
+"que la carte supérieure d'un autre emplacement du Tableau, vous pouvez cliquer dessus pour l'envoyer "
+"à la pile &lt;/li&gt; &lt;li&gt; Un emplacement vide peut petre rempli avec "
+"la carte supérieure d'un autre emplacement du Tableau &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Réserve :"
+"&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Cliquer pour retourner et déplacer une carte vers chaque "
+"emplacement du tableau &lt;/li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 344
+#. (itstool) path: game/title
+msgid "Freecell"
+msgstr "Freecell"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 347
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;FreeCell&lt;/i&gt;&lt;/b&gt; is a solitaire-based card "
+"game played with a 52-card standard deck. It is fundamentally different from "
+"most solitaire games in that very few hands are unsolvable."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Le FreeCell&lt;/i&gt;&lt;/b&gt; est un jeu de carte basé sur le solitaire "
+"et joué avec un paquet standard de 52 cartes. Il est fondamentalement différent de "
+"la plupart des jeux de solitaire du fait que très peu de parties sont insolubles."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 349
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up from rank "
+"and from suit from Ace to King &lt;/li&gt; &lt;li&gt; The top card may be "
+"moved &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; Build down by rank and by alternating color &lt;/li&gt; &lt;li&gt; "
+"The top card may be moved &lt;/li&gt; &lt;li&gt; Complete or partial correct "
+"piles may be moved as long as there are enough empty pots available &lt;/"
+"li&gt; &lt;li&gt; An empty spot may be filled with any card &lt;/li&gt; &lt;/"
+"ul&gt; &lt;h3&gt;Cell:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; May only contain one "
+"card &lt;/li&gt; &lt;li&gt; Top card may be moved &lt;/li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacez toutes les cartes vers les piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Construite dans l'ordre consécutif "
+"croissant de l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être "
+"déplacée &lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;"
+"li&gt; Construit dans l'ordre consécutif décroissant et en alternant la couleur &lt;/li&gt; &lt;li&gt; "
+"La carte supérieure peut être déplacée &lt;/li&gt; &lt;li&gt; Les piles correctes complètes ou partielles "
+"peuvent être déplacées tant qu'il y a suffisamment d'emplacements vides disponibles &lt;/"
+"li&gt; &lt;li&gt; Un emplacement vide peut être rempli avec n'importe quelle carte &lt;/li&gt; &lt;/"
+"ul&gt; &lt;h3&gt;Cellule :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Peut contenir uniquement une "
+"carte &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 390
+#. (itstool) path: game/title
+msgid "Baker's Dozen"
+msgstr "La douzaine du boulanger"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 393
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Baker's Dozen&lt;/i&gt;&lt;/b&gt; is a solitaire card game "
+"using a deck of fifty-two playing cards. The game is so called because of "
+"the 13 columns in the game, the number in a baker's dozen."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Treize à la douzaine&lt;/i&gt;&lt;/b&gt; est un jeu de carte de type solitaire "
+"utilisant un paquet de 52 cartes. Ce jeu est appelé ainsi en raison "
+"des 13 colonnes dans le jeu, la treizième unité étant traditionnellement offerte par les boulangers."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 395
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up by rank and "
+"by suit from Ace to King &lt;/li&gt; &lt;li&gt; The top card may be moved "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Build down by rank &lt;/li&gt; &lt;li&gt; The top card may be moved &lt;/"
+"li&gt; &lt;li&gt; An empty spot may &lt;i&gt;NOT&lt;/i&gt; be filled &lt;/"
+"li&gt; &lt;li&gt; All kings are moved to the bottom after dealing &lt;/"
+"li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacez toutes les cartes vers les piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Construite dans l'ordre consécutif "
+"croissant de l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Construit dans l'ordre consécutif décroissant &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/"
+"li&gt; &lt;li&gt; Un emplacement vide ne peut &lt;i&gt;PAS&lt;/i&gt; être comblé &lt;/"
+"li&gt; &lt;li&gt; Tous les Rois sont déplacés vers le bas après la distribution &lt;/"
+"li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 426
+#. (itstool) path: game/title
+msgid "Castles in Spain"
+msgstr "Châteaux en Espagne"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 429
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Castles in Spain&lt;/i&gt;&lt;/b&gt; is a solitaire card "
+"game using a deck of fifty-two playing cards."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;Châteaux en Espagne&lt;/i&gt;&lt;/b&gt; est un jeu de carte de type solitaire "
+"utilisant un paquet de 52 cartes."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 430
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up by rank and "
+"by suit from Ace to King &lt;/li&gt; &lt;li&gt; The top card may be moved "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Build down by rank and by alternating color &lt;/li&gt; &lt;li&gt; The top "
+"card may be moved &lt;/li&gt; &lt;li&gt; An empty spot may be filled with "
+"any card &lt;/li&gt; &lt;/ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacez toutes les cartes vers les piles&lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Construite dans l'ordre consécutif croissant "
+"De l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée "
+"&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; "
+"Construit dans l'ordre consécutif décroissant et en alternant la couleur &lt;/li&gt; &lt;li&gt; La carte supérieure "
+"peut être déplacée &lt;/li&gt; &lt;li&gt; Un emplacement vide peut être rempli avec n'importe "
+"quelle carte &lt;/li&gt; &lt;/ul&gt;"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 458
+#. (itstool) path: game/title
+msgid "Spanish Patience"
+msgstr "Patience espagnole"
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 461
+#. (itstool) path: game/info
+msgid ""
+"&lt;b&gt;&lt;i&gt;Spanish Patience&lt;/i&gt;&lt;/b&gt; is a solitaire card "
+"game using a deck of fifty-two playing cards."
+msgstr ""
+"&lt;b&gt;&lt;i&gt;La patience espagnole&lt;/i&gt;&lt;/b&gt; est un jeu de carte de type solitaire "
+"utilisant un paquet de 52 cartes."
+
+#
+# File: /home/mike/Documenti/UTapps/sollitaire-games/data/games.xml, line: 462
+#. (itstool) path: game/rules
+msgid ""
+"&lt;h3&gt;Goal:&lt;/h3&gt; Move all the card to the Foundations&lt;br&gt; "
+"&lt;h3&gt;Foundation:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build up by rank from "
+"Ace to King &lt;/li&gt; &lt;li&gt; The top card may be moved &lt;/li&gt; "
+"&lt;/ul&gt; &lt;h3&gt;Tableau:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Build down "
+"by rank &lt;/li&gt; &lt;li&gt; The top card may be moved &lt;/li&gt; &lt;"
+"li&gt; An empty spot may &lt;i&gt;NOT&lt;/i&gt; be filled &lt;/li&gt; &lt;"
+"li&gt; All kings are moved to the bottom after dealing &lt;/li&gt; &lt;/"
+"ul&gt;"
+msgstr ""
+"&lt;h3&gt;But :&lt;/h3&gt; Déplacez toutes les cartes vers les piles &lt;br&gt; "
+"&lt;h3&gt;Pile :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Construites dans l'ordre consécutif croissant "
+"de l'As vers le Roi &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/li&gt; "
+"&lt;/ul&gt; &lt;h3&gt;Tableau :&lt;/h3&gt; &lt;ul&gt; &lt;li&gt; Construite dans "
+"l'ordre consécutif décroissant &lt;/li&gt; &lt;li&gt; La carte supérieure peut être déplacée &lt;/li&gt; &lt;"
+"li&gt; Un emplacement ne peut &lt;i&gt;PAS&lt;/i&gt; être comblé &lt;/li&gt; &lt;"
+"li&gt; Tous les Roissont déplacés vers le bas après la distribution &lt;/li&gt; &lt;/"
+"ul&gt;"
+
+#
+# File: ../layout/GamePage.qml, line: 20
+msgid "Redo"
+msgstr "Refaire"
+
+#
+# File: ../layout/GamePage.qml, line: 28
+msgid "Undo"
+msgstr "Rétablir"
+
+#
+# File: ../layout/GamePage.qml, line: 36
+msgid "Redeal"
+msgstr "Redistribuer"
+
+#
+# File: ../layout/GamePage.qml, line: 45
+msgid "Restart"
+msgstr "Recommencer"
+
+#
+# File: ../layout/NoGame.qml, line: 10
+msgid "Loading..."
+msgstr "Chargement..."
+
+#
+# File: ../layout/NoGame.qml, line: 10
+msgid "Select a game to begin"
+msgstr "Sélectionnez un jeu pour commencer"
+
+#
+# File: ../layout/EndDialog.qml, line: 8
+msgid "Won!"
+msgstr "Gagné !"
+
+#
+# File: ../layout/EndDialog.qml, line: 8
+msgid "Lost..."
+msgstr "Perdu..."
+
+#
+# File: ../layout/EndDialog.qml, line: 9
+msgid "What's next?"
+msgstr "Et ensuite ?"
+
+#
+# File: ../layout/EndDialog.qml, line: 9
+msgid "... What's next?"
+msgstr "...Et ensuite ?"
+
+#
+# File: ../layout/EndDialog.qml, line: 11
+msgid "Try again..."
+msgstr "Réessayez..."
+
+#
+# File: ../layout/EndDialog.qml, line: 19
+msgid "Play again!"
+msgstr "Rejouer !"
+
+#
+# File: ../layout/EndDialog.qml, line: 27
+msgid "Back to game list"
+msgstr "Revenir à la liste de jeux"
+
+#
+# File: ../layout/GamesPage.qml, line: 16
+msgid "Games"
+msgstr "Jeux"
+
+#
+# File: ../layout/GamesPage.qml, line: 31
+# File: ../layout/GamesPage.qml, line: 94
+msgid "Select a game"
+msgstr "Sélectionnez un jeu"
+
+#
+# File: ../layout/GamesPage.qml, line: 120
+msgid "Info:"
+msgstr "Informations :"
+
+#
+# File: ../layout/GamesPage.qml, line: 152
+msgid "Rules:"
+msgstr "Règles :"
+
+#
+# File: ../layout/GamesPage.qml, line: 186
+msgid "Start"
+msgstr "Commencer"
+
+#
+# File: ../layout/GamesPage.qml, line: 249
+msgid "Done"
+msgstr "Fait"
+
+#
+# File: ../layout/StatsPage.qml, line: 34
+msgid "%1 win"
+msgid_plural "%1 wins"
+msgstr[0] "%1 victoire"
+msgstr[1] "%1 victoires"
+
+#
+# File: ../layout/StatsPage.qml, line: 41
+msgid "%1 los"
+msgid_plural "%1 losses"
+msgstr[0] "%1 défaite"
+msgstr[1] "%1 défaites"
